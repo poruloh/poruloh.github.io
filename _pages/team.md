@@ -93,10 +93,10 @@ We will have open positions in 2027 for postdocs and students with very strong c
 
 Lab hike at Mount Monadnock, Oct 2023
 <div style="text-align: center;">
-  <img src="/images/lab_hike_2023-10-03_web.jpg" width="80%"/>
+  <img src="/images/lab_hike_2023-10-03_web.jpg" width="60%"/>
 </div>
 
 Lab photo, Sep 2021
 <div style="text-align: center;">
-  <img src="/images/lab_photo_2021-09-10_web.jpg" width="80%"/>
+  <img src="/images/lab_photo_2021-09-10_web.jpg" width="60%"/>
 </div>
