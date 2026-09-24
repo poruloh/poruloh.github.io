@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Loh Lab - Research</title>
+  <meta name="description" content="Research">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/research">
+<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="http://localhost:4000/">Loh Lab @ BWH & HMS</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="http://localhost:4000/">Home</a></li>
+		<li><a href="http://localhost:4000/team">Team</a></li>
+		<li><a href="http://localhost:4000/research">Research</a></li>
+		<li><a href="http://localhost:4000/papers">Papers</a></li>
+		<li><a href="http://localhost:4000/resources">Resources</a></li>
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h2 id="research">Research</h2>
+
+<p>We use computational techniques to study inherited and acquired genetic variation, primarily in human population cohorts such as <a href="https://www.ukbiobank.ac.uk">UK Biobank</a> and <a href="https://www.nih.gov/allofus"><i>All of Us</i></a>. Our work often involves developing statistical or algorithmic methods to detect subtle signals of latent genetic variants (e.g., tandem repeats, structural variants, and somatic variants) and their effects on human health. Many of our projects have arisen from collaborations with <a href="https://mccarrolllab.org">Steve McCarroll</a>’s lab at Harvard Medical School, and we have also had fruitful collaborations with <a href="https://compbio.hms.harvard.edu/">Peter Park</a>’s and <a href="https://c-teraolab.com">Chikashi Terao</a>’s labs.</p>
+
+<h3 id="mosaic-chromosomal-alterations">Mosaic chromosomal alterations</h3>
+
+<p><img src="images/research_pic_mosaic.jpg" style="width: 20%; float: right; margin: 0px 20px" /></p>
+
+<p>Cells throughout the human body accrue DNA mutations over the life course, such that every person is a “mosaic” of cells with slightly different DNA. Occasionally, mutations affect megabase-scale genomic regions or entire chromosomes, generating mosaic chromosomal alterations (mCAs). We have developed statistical methods to detect and study mCAs in biobank genomic data sets. These analyses have revealed ways in which inherited genetic variants influence mCA acquisition and clonal expansion. Our work has also implicated early developmental mCAs as a likely contributor to sporadic cases of autism spectrum disorder and refined the relationship between age-acquired hematopoietic mCAs and blood cancer risk.</p>
+
+<ul>
+  <li><a href="https://doi.org/10.64898/2026.09.08.26362505">Si*, Kamitaki* et al. <i>medRxiv</i></a></li>
+  <li><a href="https://www.nature.com/articles/s41588-026-02592-0">Tang et al. 2026 <i>Nat Genet</i></a></li>
+  <li><a href="https://www.nature.com/articles/s41593-020-00766-5">Sherman et al. 2021 <i>Nat Neurosci</i></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-020-2430-6">Loh, Genovese, McCarroll 2020 <i>Nature</i></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-020-2426-2">Terao et al. 2020 <i>Nature</i></a></li>
+  <li><a href="https://doi.org/10.1038/s41586-018-0321-x">Loh*, Genovese* et al. 2018 <i>Nature</i></a></li>
+</ul>
+
+<h3 id="tandem-repeats">Tandem repeats</h3>
+
+<p><img src="images/research_pic_repeats.png" style="width: 30%; float: right; margin: 0px 10px" /></p>
+
+<p>Human genomes contain millions of repeat elements at which a DNA motif appears multiple times in a row. Tandem repeats are prone to expansion and contraction and are among the most mutable of genomic elements. This leads to length variation between alleles inherited by different people as well as somatic expansion of unstable alleles within a person. We have developed computational techniques to assess inherited and acquired repeat length variation in biobank cohorts. This work has identified many repeats that confer disease risk or alter gene expression, and it has also found many genomic loci at which inherited variants influence somatic repeat instability.</p>
+
+<ul>
+  <li><a href="https://doi.org/10.1038/s41586-025-09886-z">Hujoel et al. 2026 <i>Nature</i></a></li>
+  <li><a href="https://doi.org/10.1016/j.cell.2023.07.002">Mukamel*, Handsaker* et al. 2023 <i>Cell</i></a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.abg8289">Mukamel*, Handsaker* et al. 2021 <i>Science</i></a></li>
+</ul>
+
+<h3 id="structural-variants-and-rare-coding-variants">Structural variants and rare coding variants</h3>
+
+<p><img src="images/research_pic_SVs.png" style="width: 30%; float: right; margin: 0px 10px" /></p>
+
+<p>Genomic structural variants, including large insertions, deletions, and duplications of DNA, are the largest inherited variants in the human genome, yet are the hardest to “see” in population cohorts with short-read sequencing or SNP-array genotyping data. We have developed computational methods to genotype structural variants in such data sets using a variety of statistical techniques, particularly by leveraging haplotype-sharing within large cohorts. These approaches, which we have also applied to rare protein-coding variants, have identified common structural variants that underlie some of the strongest associations of genetic variation with human phenotypes and rare variants with large effects on health-related traits.</p>
+
+<ul>
+  <li><a href="https://doi.org/10.1038/s41588-024-01841-4">Kamitaki et al. 2024 <i>Nat Genet</i></a></li>
+  <li><a href="https://doi.org/10.1038/s41588-024-01684-z">Hujoel et al. 2024 <i>Nat Genet</i></a></li>
+  <li><a href="https://doi.org/10.1016/j.cell.2022.09.028">Hujoel et al. 2022 <i>Cell</i></a></li>
+  <li><a href="https://www.nature.com/articles/s41588-021-00892-1">Barton et al. 2021 <i>Nat Genet</i></a></li>
+</ul>
+
+<h3 id="other-dna-phenotypes">Other DNA phenotypes</h3>
+
+<p><img src="images/research_pic_virome.png" style="width: 25%; float: right; margin: 0px 10px" /></p>
+
+<p>Whole-genome sequences of human biosamples commonly contain small amounts of non-human DNA. This is particularly true of saliva samples, for which ~10% of DNA is often derived from bacterial species present in the oral microbiome. Blood samples also contain trace amounts of DNA from common viruses resident in each person’s blood system. We have studied inherited genetic influences on the oral microbiome and blood DNA virome in large human sequencing data sets, finding ways that human genetic variation interacts with microbial and viral variation. These genetic instruments have shed light on the extent to which epidemiological associations with disease phenotypes are causal.</p>
+
+<ul>
+  <li><a href="https://doi.org/10.1038/s41586-026-10288-y">Kamitaki et al. 2026b <i>Nature</i></a></li>
+  <li><a href="https://doi.org/10.1038/s41586-025-10037-7">Kamitaki et al. 2026a <i>Nature</i></a></li>
+</ul>
+
+<h3 id="gwas-tools">GWAS tools</h3>
+
+<p><img src="images/research_pic_GWAS.jpg" style="width: 25%; float: right; margin: 0px 10px" /></p>
+
+<p>We have developed software tools that have been widely used in genome-wide association studies (GWAS). These include the <a href="https://alkesgroup.broadinstitute.org/Eagle">Eagle</a> software for statistical haplotype phasing and the <a href="https://storage.googleapis.com/broad-alkesgroup-public/BOLT-LMM/BOLT-LMM_manual.html">BOLT-LMM</a> software package for linear mixed model (LMM) association testing, heritability estimation (BOLT-REML), and phenotype prediction.</p>
+
+<ul>
+  <li><a href="https://doi.org/10.1038/s41588-018-0144-6">Loh et al. 2018 <i>Nat Genet</i></a></li>
+  <li><a href="http://dx.doi.org/10.1038/ng.3679">Loh et al. 2016b <i>Nat Genet</i></a></li>
+  <li><a href="http://dx.doi.org/10.1038/ng.3571">Loh et al. 2016a <i>Nat Genet</i></a></li>
+  <li><a href="http://dx.doi.org/10.1038/ng.3431">Loh et al. 2015b <i>Nat Genet</i></a></li>
+  <li><a href="http://dx.doi.org/10.1038/ng.3190">Loh et al. 2015a <i>Nat Genet</i></a></li>
+</ul>
+
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+		  <p>Site made with <a href="https://jekyllrb.com">Jekyll</a> based on
+		    code from the <a href="https://www.allanlab.org">Allan Lab</a> and
+		    <a href="https://hlilab.github.io">HLi Lab</a>.
+		  </p>
+		</div>
+		<div class="col-sm-4">
+		  <p>We are part of <a href="https://www.massgeneralbrigham.org">BWH/MGB</a>,
+		    <a href="https://hms.harvard.edu">Harvard Medical School</a>, and the
+		    <a href="https://www.broadinstitute.org">Broad Institute.</a>
+		  </p>
+		</div>
+		<div class="col-sm-4">
+		  <p>77 Avenue Louis Pasteur<br>
+		    Suite 250<br>
+		    Boston, MA 02115, USA</p>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

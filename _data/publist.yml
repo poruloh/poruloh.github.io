@@ -1,0 +1,167 @@
+- title: Genetic mechanisms of mitotic error in 840,853 blood genomes
+  authors: <b>Si Y</b>*, <b>Kamitaki N</b>*, Tang D, <b>Loh PR</b>
+  year: 2026
+  journal: medRxiv
+  url: https://doi.org/10.64898/2026.09.08.26362505
+  type: 2
+
+- title: Patterns and drivers of 43,617 mosaic chromosomal alterations in blood
+  authors: <b>Tang D</b>, Kamitaki N, Mukamel RE, Rubinacci S, <b>Loh PR</b>
+  year: 2026
+  journal: Nature Genetics
+  url: https://www.nature.com/articles/s41588-026-02592-0
+  type: 1
+
+- title: The DNA virome varies with human genes and environments
+  authors: <b>Kamitaki N</b>, Tang D, McCarroll SA, <b>Loh PR</b>
+  year: 2026
+  journal: Nature
+  url: https://doi.org/10.1038/s41586-026-10288-y
+  type: 1
+
+- title: Human and bacterial genetic variation shape oral microbiomes and health
+  authors: <b>Kamitaki N</b>, Handsaker RE, Hujoel MLA, Mukamel RE, Usher CL, McCarroll SA, <b>Loh PR</b>
+  year: 2026
+  journal: Nature
+  url: https://doi.org/10.1038/s41586-025-10037-7
+  type: 1
+
+- title: Insights into DNA repeat expansions among 900,000 biobank participants
+  authors: <b>Hujoel MLA</b>, Handsaker RE, Tang D, Kamitaki N, Mukamel RE, Rubinacci S, Palamara PF, McCarroll SA, <b>Loh PR</b>
+  year: 2026
+  journal: Nature
+  url: https://doi.org/10.1038/s41586-025-09886-z
+  type: 1
+
+- title: A sequence of SVA retrotransposon insertions in <i>ASIP</i> shaped human pigmentation
+  authors: <b>Kamitaki N</b>, Hujoel MLA, Mukamel RE, Gebara E, McCarroll SA, <b>Loh PR</b>
+  year: 2024
+  journal: Nature Genetics
+  url: https://doi.org/10.1038/s41588-024-01841-4
+  type: 1
+
+- title: Protein-altering variants at copy number-variable regions influence diverse human phenotypes
+  authors: <b>Hujoel MLA</b>, Handsaker RE, Sherman MA, Kamitaki N, Barton AR, Mukamel RE, Terao C, McCarroll SA, <b>Loh PR</b>
+  year: 2024
+  journal: Nature Genetics
+  url: https://doi.org/10.1038/s41588-024-01684-z
+  type: 1
+
+- title: Repeat polymorphisms underlie top genetic risk loci for glaucoma and colorectal cancer
+  authors: <b>Mukamel RE</b>*, Handsaker RE*, Sherman MA, Barton AR, Hujoel MLA, McCarroll SA**, <b>Loh PR</b>**
+  year: 2023
+  journal: Cell
+  url: https://doi.org/10.1016/j.cell.2023.07.002
+  type: 1
+
+- title: Influences of rare copy number variation on human complex traits
+  authors: <b>Hujoel MLA</b>, Sherman MA, Barton AR, Mukamel RE, Sankaran VG, Terao C, <b>Loh PR</b>
+  year: 2022
+  journal: Cell
+  url: https://doi.org/10.1016/j.cell.2022.09.028
+  type: 1
+
+- title: Genome-wide mapping of somatic mutation rates uncovers drivers of cancer
+  authors: <b>Sherman MA</b>*, Yaari AU*, Priebe O*, Dietlein F, <b>Loh PR</b>**, Berger B**
+  year: 2022
+  journal: Nature Biotechnology
+  url: https://doi.org/10.1038/s41587-022-01353-8
+  type: 1
+
+- title: A spectrum of recessiveness among Mendelian disease variants in UK Biobank
+  authors: <b>Barton AR</b>, Hujoel MLA, Mukamel RE, Sherman MA, <b>Loh PR</b>
+  year: 2022
+  journal: American Journal of Human Genetics
+  url: https://doi.org/10.1016/j.ajhg.2022.05.008
+  type: 1
+
+- title: Protein-coding repeat polymorphisms strongly shape diverse human phenotypes
+  authors: <b>Mukamel RE</b>*, Handsaker RE*, Sherman MA, Barton AR, Zheng Y, McCarroll SA**, <b>Loh PR</b>**
+  year: 2021
+  journal: Science
+  url: https://www.science.org/doi/10.1126/science.abg8289
+  type: 1
+
+- title: Whole-exome imputation within UK Biobank powers rare coding variant association and fine-mapping analyses
+  authors: <b>Barton AR</b>, Sherman MA, Mukamel RE, <b>Loh PR</b>
+  year: 2021
+  journal: Nature Genetics
+  url: https://www.nature.com/articles/s41588-021-00892-1
+  type: 1
+
+- title: Large mosaic copy number variations confer autism risk
+  authors: <b>Sherman MA</b>, Rodin RE, Genovese G, Dias C, Barton AR, Mukamel RE, Berger B, Park PJ**, Walsh CA**, <b>Loh PR</b>**
+  year: 2021
+  journal: Nature Neuroscience
+  url: https://www.nature.com/articles/s41593-020-00766-5
+  type: 1
+
+- title: Monogenic and polygenic inheritance become instruments for clonal selection
+  authors: <b>Loh PR</b>, Genovese G, McCarroll SA
+  year: 2020
+  journal: Nature
+  url: https://www.nature.com/articles/s41586-020-2430-6
+  type: 1
+
+- title: The genomic landscape of clonal hematopoiesis in Japan
+  authors: Terao C, Suzuki A, Momozawa Y, Akiyama M, Ishigaki K, Yamamoto K, Matsuda K, Murakami Y, McCarroll SA, Kubo M, <b>Loh PR</b>**, Kamatani Y**
+  year: 2020
+  journal: Nature
+  url: https://www.nature.com/articles/s41586-020-2426-2
+  type: 1
+
+- title: Insights into clonal haematopoiesis from 8,342 mosaic chromosomal alterations
+  authors: <b>Loh PR</b>*, Genovese G*, Handsaker RE, Finucane HK, Reshef YA, Francesco PF, Birmann BM, Talkowski ME, Bakhoum SF, McCarroll SA, Price AL
+  year: 2018
+  journal: Nature
+  url: https://doi.org/10.1038/s41586-018-0321-x
+  type: 1
+
+- title: Mixed-model association for biobank-scale datasets
+  authors: <b>Loh PR</b>, Kichaev G, Gazal S, Schoech AP, Price AL
+  year: 2018
+  journal: Nature Genetics
+  url: https://doi.org/10.1038/s41588-018-0144-6
+  type: 1
+
+- title: Reference-based phasing using the Haplotype Reference Consortium panel
+  authors: <b>Loh PR</b>, Danecek P, Palamara PF, Fuchsberger C, Reshef YA, Finucane HK, Schoenherr S, Forer L, McCarthy S, Abecasis GR, Durbin R, Price AL
+  year: 2016
+  journal: Nature Genetics
+  url: http://dx.doi.org/10.1038/ng.3679
+  type: 1
+
+- title: Fast and accurate long-range phasing in a UK Biobank cohort
+  authors: <b>Loh PR</b>, Palamara PF, Price AL
+  year: 2016
+  journal: Nature Genetics
+  url: http://dx.doi.org/10.1038/ng.3571
+  type: 1
+
+- title: Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance components analysis
+  authors: <b>Loh PR</b>, Bhatia G, Gusev A, Finucane HK, Bulik-Sullivan BK, Pollack SJ, Schizophrenia Working Group of the Psychiatric Genomics Consortium, de Candia T, Lee SH, Wray NR, Kendler KS, O’Donovan MC, Neale BM, Patterson N, Price AL
+  year: 2015
+  journal: Nature Genetics
+  url: http://dx.doi.org/10.1038/ng.3431
+  type: 1
+
+- title: Efficient Bayesian mixed model analysis increases association power in large cohorts
+  authors: <b>Loh PR</b>, Tucker G, Bulik-Sullivan BK, Vilhjalmsson BJ, Finucane HK, Salem RM, Chasman DI, Ridker PM, Neale BM, Berger B, Patterson N, Price AL
+  year: 2015
+  journal: Nature Genetics
+  url: http://dx.doi.org/10.1038/ng.3190
+  type: 1
+
+- title: Efficient Bayesian mixed model analysis increases association power in large cohorts
+  authors: <b>Loh PR</b>*, Lipson M*, Patterson N, Moorjani P, Pickrell J, Reich D, Berger B
+  year: 2013
+  journal: Genetics
+  url: http://www.genetics.org/content/193/4/1233.full
+  type: 1
+
+- title: Compressive genomics
+  authors: <b>Loh PR</b>*, Baym M*, Berger B
+  year: 2012
+  journal: Nature Biotechnology
+  url: http://www.nature.com/nbt/journal/v30/n7/full/nbt.2241.html
+  type: 1
