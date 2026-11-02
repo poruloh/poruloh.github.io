@@ -16,6 +16,7 @@ We use computational techniques to study inherited and acquired genetic variatio
 
 Cells throughout the human body accrue DNA mutations over the life course, such that every person is a “mosaic” of cells with slightly different DNA. Occasionally, mutations affect megabase-scale genomic regions or entire chromosomes, generating mosaic chromosomal alterations (mCAs). We have developed statistical methods to detect and study mCAs in biobank genomic data sets. These analyses have revealed ways in which inherited genetic variants influence mCA acquisition and clonal expansion. Our work has also implicated early developmental mCAs as a likely contributor to sporadic cases of autism spectrum disorder and refined the relationship between age-acquired hematopoietic mCAs and blood cancer risk.
 
+* [Tang et al. <i>bioRxiv</i>][tang2027]
 * [Si\*, Kamitaki\* et al. <i>medRxiv</i>][si2026]
 * [Tang et al. 2026 <i>Nat Genet</i>][tang2026]
 * [Sherman et al. 2021 <i>Nat Neurosci</i>][sherman2021]
@@ -67,6 +68,7 @@ We have developed software tools that have been widely used in genome-wide assoc
 
 
 
+[tang27]: https://doi.org/10.64898/2026.10.27.760146
 [si2026]: https://doi.org/10.64898/2026.09.08.26362505
 [tang2026]: https://www.nature.com/articles/s41588-026-02592-0
 [kamitaki2026b]: https://doi.org/10.1038/s41586-026-10288-y
