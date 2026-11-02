@@ -68,7 +68,7 @@ We have developed software tools that have been widely used in genome-wide assoc
 
 
 
-[tang27]: https://doi.org/10.64898/2026.10.27.760146
+[tang2027]: https://doi.org/10.64898/2026.10.27.760146
 [si2026]: https://doi.org/10.64898/2026.09.08.26362505
 [tang2026]: https://www.nature.com/articles/s41588-026-02592-0
 [kamitaki2026b]: https://doi.org/10.1038/s41586-026-10288-y
