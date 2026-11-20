@@ -16,8 +16,8 @@ We use computational techniques to study inherited and acquired genetic variatio
 
 Cells throughout the human body accrue DNA mutations over the life course, such that every person is a “mosaic” of cells with slightly different DNA. Occasionally, mutations affect megabase-scale genomic regions or entire chromosomes, generating mosaic chromosomal alterations (mCAs). We have developed statistical methods to detect and study mCAs in biobank genomic data sets. These analyses have revealed ways in which inherited genetic variants influence mCA acquisition and clonal expansion. Our work has also implicated early developmental mCAs as a likely contributor to sporadic cases of autism spectrum disorder and refined the relationship between age-acquired hematopoietic mCAs and blood cancer risk.
 
-* [Tang et al. <i>bioRxiv</i>][tang2027]
-* [Si\*, Kamitaki\* et al. <i>medRxiv</i>][si2026]
+* [Tang et al. <i>bioRxiv</i>][tang2026pre]
+* [Si\*, Kamitaki\* et al. <i>medRxiv</i>][si2026pre]
 * [Tang et al. 2026 <i>Nat Genet</i>][tang2026]
 * [Sherman et al. 2021 <i>Nat Neurosci</i>][sherman2021]
 * [Loh, Genovese, McCarroll 2020 <i>Nature</i>][loh2020]
@@ -30,6 +30,7 @@ Cells throughout the human body accrue DNA mutations over the life course, such 
 
 Human genomes contain millions of repeat elements at which a DNA motif appears multiple times in a row. Tandem repeats are prone to expansion and contraction and are among the most mutable of genomic elements. This leads to length variation between alleles inherited by different people as well as somatic expansion of unstable alleles within a person. We have developed computational techniques to assess inherited and acquired repeat length variation in biobank cohorts. This work has identified many repeats that confer disease risk or alter gene expression, and it has also found many genomic loci at which inherited variants influence somatic repeat instability.
 
+* [Mukamel et al. <i>bioRxiv</i>][mukamel2026pre]
 * [Hujoel et al. 2026 <i>Nature</i>][hujoel2026]
 * [Mukamel\*, Handsaker\* et al. 2023 <i>Cell</i>][mukamel2023]
 * [Mukamel\*, Handsaker\* et al. 2021 <i>Science</i>][mukamel2021]
@@ -68,8 +69,9 @@ We have developed software tools that have been widely used in genome-wide assoc
 
 
 
-[tang2027]: https://doi.org/10.64898/2026.10.27.760146
-[si2026]: https://doi.org/10.64898/2026.09.08.26362505
+[mukamel2026pre]: https://doi.org/10.64898/2026.11.16.767202
+[tang2026pre]: https://doi.org/10.64898/2026.10.27.760146
+[si2026pre]: https://doi.org/10.64898/2026.09.08.26362505
 [tang2026]: https://www.nature.com/articles/s41588-026-02592-0
 [kamitaki2026b]: https://doi.org/10.1038/s41586-026-10288-y
 [kamitaki2026a]: https://doi.org/10.1038/s41586-025-10037-7
